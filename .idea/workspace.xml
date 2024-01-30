@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fa7902b-974f-48b2-866e-03079a60ef2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/com/src/Coding/PrintEvenFirstThenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/src/Coding/PrintEvenFirstThenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/src/java8practice/EmployeeMainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/src/java8practice/EmployeeMainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/src/practice/DuplicateNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/src/practice/DuplicateNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/src/practice/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/src/practice/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/src/practice/HighestSalaryPerDepartmentExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/src/practice/HighestSalaryPerDepartmentExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/src/revision/EmployeeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/src/revision/EmployeeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/src/Coding/PrintEvenFirstThenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/src/Coding/PrintEvenFirstThenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/src/java8practice/EmployeeMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/src/java8practice/EmployeeMainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/src/practice/DuplicateNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/src/practice/DuplicateNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/src/practice/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/src/practice/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/src/practice/HighestSalaryPerDepartmentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/src/practice/HighestSalaryPerDepartmentExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/src/revision/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/src/revision/EmployeeMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2bOJfTwo17pKKGk8y9WMWpz2Rct" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sankandp/Documents/workspace-spring-tool-suite-4-4.19.1.RELEASE/InterviewPractice"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-d86f2a68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fa7902b-974f-48b2-866e-03079a60ef2a" name="Changes" comment="" />
+      <created>1706080294486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706080294486</updated>
+    </task>
+    <servers />
+  </component>
+</project>

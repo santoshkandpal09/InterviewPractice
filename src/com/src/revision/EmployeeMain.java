@@ -24,10 +24,13 @@ public class EmployeeMain {
 	// System.out.println(totalSalary);
 	
 		
-	Map<String, Double> avgSalary = employees.stream().collect(Collectors.groupingBy(e->e.getDepartment(),
-			Collectors.averagingDouble(e->e.getSalary())));
-	
-	System.out.println(avgSalary);
+	/*
+	 * Map<String, Double> avgSalary =
+	 * employees.stream().collect(Collectors.groupingBy(e->e.getDepartment(),
+	 * Collectors.averagingDouble(e->e.getSalary())));
+	 * 
+	 * System.out.println(avgSalary);
+	 */
 	
 	
 		List<Employee> collect = employees.stream().filter(e->e.getDepartment().equals("HR"))
